@@ -1,0 +1,6 @@
+# 1. Introducción: conceptos y soporte físico
+**Ejercicio 1.** Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. [Consultar este artículo en Infoautónomos sobre el tema](https://www.infoautonomos.com/consultas-a-la-comunidad/988/).
+
+Para el caso de equipos de proceso de información, su amortización lineal máxima según la [web de la Agencia Tributaria](https://www.agenciatributaria.es/AEAT.internet/Inicio/_Segmentos_/Empresas_y_profesionales/Empresas/Impuesto_sobre_Sociedades/Periodos_impositivos_a_partir_de_1_1_2015/Base_imponible/Amortizacion/Tabla_de_coeficientes_de_amortizacion_lineal_.shtml) es de un 25%. En este caso, seleccionaré [este servidor](https://www.dell.com/es-es/work/shop/cty/pdp/spd/poweredge-r940xa/emea_r940xa_vi_vp) para calcular su amortización. Como podemos ver, el precio viene sin el IVA incluido, por lo que me ahorro ese cáclulo. Los costes de amortización son los siguientes:
+- Para 4 años, la amortización será del 25%, por tanto el coste de amortización será 20.291,22€ por año.
+- Para 7 años, la amortización será del 100/7=14,29%, por tanto el coste de aortización será 11.598,46€ por año.
