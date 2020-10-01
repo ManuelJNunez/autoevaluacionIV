@@ -37,6 +37,7 @@ Como podemos observar, en caso de usar el servidor unas pocas horas al año sale
     ![virtualizacion](img/movilflags.png)
 
 - En el subsistema de windows para linux
+
     ![modelo de cpu](img/amdmodel.png)
 
     ![virtualizacion](img/amdcommand.png)
