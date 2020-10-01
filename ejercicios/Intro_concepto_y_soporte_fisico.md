@@ -41,3 +41,11 @@ Como podemos observar, en caso de usar el servidor unas pocas horas al año sale
     ![modelo de cpu](img/amdmodel.png)
 
     ![virtualizacion](img/amdcommand.png)
+
+**Ejercicio 4.** Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
+
+Voy a instalar VirtualBox, puesto que es el que usaba en la asignatura Ingeniería de Servidores y es software libre.
+
+![Instalación VirtualBox](img/dnfvirtualbox.png)
+
+![Instalación completa](img/instalado.png)
