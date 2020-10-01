@@ -19,3 +19,24 @@ En el caso del VPS, da igual qué porcentaje del tiempo lo hemos usado, nos van 
 En el caso del Cloud, si lo usamos el 1% de las horas de un año (87.6h) saldría a 1,31$/año y en el caso de usarlo el 10% de las horas del año (876h) saldría a 13.14\$/año.
 
 Como podemos observar, en caso de usar el servidor unas pocas horas al año sale más rentable usar un Cloud.
+
+**Ejercicio 3.** En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, [el procesador del móvil](https://stackoverflow.com/questions/26239956/how-to-get-specific-information-of-an-android-device-from-proc-cpuinfo-file)?
+
+- En mi PC:
+
+    ![modelo de cpu](img/cpumodel.png)
+
+    ![virtualizacion](img/cpuflags.png)
+
+- En mi móvil (tengo el Qualcomm Snapdragon 845)
+
+    ![modelo de cpu](img/movilmodel.png)
+
+    En android me aparece lo siguiente, pero ninguna de esa Feature se refiere a virtualización
+
+    ![virtualizacion](img/movilflags.png)
+
+- En el subsistema de windows para linux
+    ![modelo de cpu](img/amdmodel.png)
+
+    ![virtualizacion](img/amdcommand.png)
