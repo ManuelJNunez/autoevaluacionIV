@@ -49,3 +49,9 @@ Voy a instalar VirtualBox, puesto que es el que usaba en la asignatura Ingenier�
 ![Instalación VirtualBox](img/dnfvirtualbox.png)
 
 ![Instalación completa](img/instalado.png)
+
+**Ejercicio 5.** Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube libres como los mencionados en los párrafos anteriores, aunque sea temporalmente. Si la prueba es menos de un mes, simplemente anotarlo y dejarlo para el mes de diciembre, más o menos.
+
+Ahora mismo estoy dado de alta en [Amazon Web Services](https://cloud.google.com/) en el cual tengo un año de prueba gratis y ofrecen lo siguiente:
+
+![freetier](img/freetieraws.png)
