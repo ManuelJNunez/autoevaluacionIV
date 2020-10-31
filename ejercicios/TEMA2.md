@@ -68,3 +68,9 @@ Ya estoy dado de alta en Travis CI, así que solo activaré el repositorio en el
 ![](img/tema2/approve.png)
 
 ![](img/tema2/repos.png)
+
+**Ejercicio 10.** Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
+
+![](img/tema2/travisyml.png)
+
+![](img/tema2/passing.png)
