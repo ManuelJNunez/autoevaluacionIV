@@ -61,5 +61,10 @@ La orden del task runner ejecutaría el comando `typedoc` con las siguientes opc
 
 ![](img/tema2/typedoc.png)
 
+**Ejercicio 9.** Haced los dos primeros pasos antes de pasar al tercero.
 
+Ya estoy dado de alta en Travis CI, así que solo activaré el repositorio en el que se vaya a aplicar la CI.
 
+![](img/tema2/approve.png)
+
+![](img/tema2/repos.png)
