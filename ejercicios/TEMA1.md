@@ -24,34 +24,34 @@ Como podemos observar, en caso de usar el servidor unas pocas horas al año sale
 
 - En mi PC:
 
-    ![modelo de cpu](img/cpumodel.png)
+    ![modelo de cpu](img/tema1/cpumodel.png)
 
-    ![virtualizacion](img/cpuflags.png)
+    ![virtualizacion](img/tema1/cpuflags.png)
 
 - En mi móvil (tengo el Qualcomm Snapdragon 845)
 
-    ![modelo de cpu](img/movilmodel.png)
+    ![modelo de cpu](img/tema1/movilmodel.png)
 
     En android me aparece lo siguiente, pero ninguna de esa Feature se refiere a virtualización
 
-    ![virtualizacion](img/movilflags.png)
+    ![virtualizacion](img/tema1/movilflags.png)
 
 - En el subsistema de windows para linux
 
-    ![modelo de cpu](img/amdmodel.png)
+    ![modelo de cpu](img/tema1/amdmodel.png)
 
-    ![virtualizacion](img/amdcommand.png)
+    ![virtualizacion](img/tema1/amdcommand.png)
 
 **Ejercicio 4.** Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
 
 Voy a instalar VirtualBox, puesto que es el que usaba en la asignatura Ingeniería de Servidores y es software libre.
 
-![Instalación VirtualBox](img/dnfvirtualbox.png)
+![Instalación VirtualBox](img/tema1/dnfvirtualbox.png)
 
-![Instalación completa](img/instalado.png)
+![Instalación completa](img/tema1/instalado.png)
 
 **Ejercicio 5.** Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube libres como los mencionados en los párrafos anteriores, aunque sea temporalmente. Si la prueba es menos de un mes, simplemente anotarlo y dejarlo para el mes de diciembre, más o menos.
 
 Ahora mismo estoy dado de alta en [Amazon Web Services](https://cloud.google.com/) en el cual tengo un año de prueba gratis y ofrecen lo siguiente:
 
-![freetier](img/freetieraws.png)
+![freetier](img/tema1/freetieraws.png)
