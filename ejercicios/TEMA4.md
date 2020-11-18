@@ -16,6 +16,12 @@ En las siguientes capturas se muestra la instalación y login en `Vercel CLI` y 
 
 **Ejercicio 2.** Tomar alguna de las funciones de prueba de Vercel, y hacer despliegues de prueba con el mismo.
 
-En este caso he probado `Angular` en `Vercel`.
+En este caso he probado [esta función](../api/test.js) en `Vercel`.
 
-![](img/tema4/angularvercel.png)
+![](img/tema4/verceldeploy.png)
+
+![](img/tema4/verceldeployed.png)
+
+**Ejercicio 3.** Tomar alguna de las funciones de prueba de Netlify, y hacer despliegues de prueba con el mismo.
+
+
