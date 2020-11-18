@@ -24,4 +24,6 @@ En este caso he probado [esta función](../api/test.js) en `Vercel`.
 
 **Ejercicio 3.** Tomar alguna de las funciones de prueba de Netlify, y hacer despliegues de prueba con el mismo.
 
+![](img/tema4/netlifydeploy.png)
 
+![](img/tema4/netlifyfunction.png)
