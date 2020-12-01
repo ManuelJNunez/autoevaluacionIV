@@ -15,3 +15,7 @@ Se encuentra [aquí](../express/miniapi.js).
 **Ejercicio 3.** Programar un microservicio en express (o el lenguaje y marco elegido) que incluya variables como en el caso anterior.
 
 Se han añadido nuevos métodos al fichero del ejercicio anterior.
+
+**Ejercicio 4.** Crear pruebas para las diferentes rutas de la aplicación.
+
+Los tests se han creado [aquí](../test/express.test.js)
