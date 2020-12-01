@@ -8,4 +8,6 @@ La biblioteca que funciona bien con el lenguaje `JavaScript` o `TypeScript` se l
 
 ![](img/tema5/miniprograma.png)
 
+**Ejercicio 2.** Realizar una aplicación básica que use `express` para devolver alguna estructura de datos del modelo que se viene usando en el curso.
 
+Se encuentra [aquí](../express/miniapi.js).
