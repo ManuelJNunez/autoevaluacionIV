@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ManuelJNunez/autoevaluacionIV#readme",
   "dependencies": {
-    "etcd3": "^1.1.0"
+    "etcd3": "^1.1.0",
+    "express": "^4.17.1"
   }
 }
