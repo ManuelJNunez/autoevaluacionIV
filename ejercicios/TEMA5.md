@@ -11,3 +11,7 @@ La biblioteca que funciona bien con el lenguaje `JavaScript` o `TypeScript` se l
 **Ejercicio 2.** Realizar una aplicación básica que use `express` para devolver alguna estructura de datos del modelo que se viene usando en el curso.
 
 Se encuentra [aquí](../express/miniapi.js).
+
+**Ejercicio 3.** Programar un microservicio en express (o el lenguaje y marco elegido) que incluya variables como en el caso anterior.
+
+Se han añadido nuevos métodos al fichero del ejercicio anterior.
