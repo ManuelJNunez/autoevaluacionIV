@@ -25,3 +25,5 @@ app.get('/saluda', (req, res) => {
 app.listen(port, () => {
     console.log('Servidor escuchando en el puerto', 3000)
 })
+
+module.exports = app
