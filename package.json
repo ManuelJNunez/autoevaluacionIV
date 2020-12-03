@@ -6,6 +6,7 @@
   "scripts": {
     "start": "pm2 start express/miniapi.js -i 0",
     "monitor": "pm2 monit",
+    "stop": "pm2 delete all",
     "build-netlify": "node functions/test.js",
     "build": "node api/test.js --output public",
     "test": "mocha test/express.test.js --exit"
