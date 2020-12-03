@@ -18,4 +18,16 @@ Se han añadido nuevos métodos al fichero del ejercicio anterior.
 
 **Ejercicio 4.** Crear pruebas para las diferentes rutas de la aplicación.
 
-Los tests se han creado [aquí](../test/express.test.js)
+Los tests se han creado [aquí](../test/express.test.js).
+
+**Ejercicio 5.** Experimentar con diferentes gestores de procesos y servidores web front-end para un microservicio que se haya hecho con antelación, por ejemplo en la sección anterior.
+
+Voy a experimentar con `pm2` (he probado forever y strongloop pero me han dado problemas)
+
+![](img/tema5/pm2start.png)
+
+![](img/tema5/pm2monit.png)
+
+**Ejercicio 6.** Usar `rake`, `invoke` o la herramienta equivalente en tu lenguaje de programación para programar diferentes tareas que se puedan lanzar fácilmente desde la línea de órdenes.
+
+Voy a usar npm, la orden la añado [aquí](../package.json), en el `package.json`.
