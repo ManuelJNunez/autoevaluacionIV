@@ -23,7 +23,7 @@ app.get('/saluda', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Servidor escuchando en el puerto', 3000)
+    console.log('Servidor escuchando en el puerto', port)
 })
 
 module.exports = app
