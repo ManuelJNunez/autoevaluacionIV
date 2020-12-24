@@ -5,3 +5,4 @@ En este repositorio guardaré los ejercicios de autoevaluación de la asignatura
 3. [Virtualización ligera usando contenedores](ejercicios/TEMA3.md)
 4. [Serverless computing](ejercicios/TEMA4.md)
 5. [Microservicios](ejercicios/TEMA5.md)
+6. [Platform as a Service](ejercicios/TEMA6.md)
