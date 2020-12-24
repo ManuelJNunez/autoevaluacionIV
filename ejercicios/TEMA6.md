@@ -8,4 +8,6 @@ Ya estoy dado de alta en Heroku. De hecho hasta tengo un proyecto subido de ante
 
 **Ejercicio 2.** Crear una aplicación en OpenShift o en algún otro PaaS en el que se haya dado uno de alta. Realizar un despliegue de prueba usando alguno de los ejemplos incluidos con el PaaS.
 
+![](img/tema6/clone.png)
 
+![](img/tema6/deploy.png)
